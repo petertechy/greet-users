@@ -13,3 +13,18 @@ p{
     text-align: center;
     padding: 1.5rem 2rem;
 }
+button{
+    padding: 15px 32px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    margin-top: 20px;
+    color: white;
+    font-size: 16px;
+    box-shadow: 2px 2px 3px 5px lightgray;
+}
+div{
+    text-align: center;
+    
+    
+}
