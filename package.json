@@ -1,0 +1,13 @@
+{
+  "name": "greet-users-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["greeting", "npm", "greeters-package"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "A simple app to greet all my users"
+}
