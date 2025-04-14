@@ -27,7 +27,7 @@ button{
 div{
     text-align: center;
 }
-button:hover{
+div button:hover{
     background-color: black;
     transform: scale(1.09);
 }
